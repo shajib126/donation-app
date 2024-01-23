@@ -1,7 +1,7 @@
 import Navbar from "./Navbar"
 import { Chart } from "react-google-charts";
 import donatedata from '../data.json'
-import { useEffect } from "react";
+
 //statistic page
 // const totalDonation = data.length
 const donated = JSON.parse(localStorage.getItem('donation'))
