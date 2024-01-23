@@ -1,0 +1,122 @@
+[
+  {
+    "id":1,
+    "title": "Clean water for children",
+    "category": "Health",
+    "textColor": "health",
+    "bgColor": "health",
+    "bgImage":"./assets/images/Health.png",
+    "description":"Health is a state of overall well-being, encompassing physical, mental, and social aspects. It involves a balanced lifestyle with good nutrition, regular exercise, and effective stress management. Mental and emotional well-being, along with positive social connections, are crucial. Optimal health requires proactive choices and ongoing self-care for a fulfilling life",
+    "price":150
+  },
+  {
+    "id":2,
+    "title": "Good education",
+    "category": "Education",
+    "textColor": "education",
+    "bgColor": "education",
+    "bgImage":"./assets/images/Education.png",
+    "description":"Education is a transformative journey that empowers individuals with knowledge and skills, fostering personal growth and societal progress. It cultivates critical thinking, creativity, and a lifelong pursuit of knowledge, serving as a powerful tool for unlocking potential and promoting equality.",
+    "price":130
+  },
+  {
+    "id":3,
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "textColor": "clothing",
+    "bgColor": "clothing",
+    "bgImage":"./assets/images/Clothing.png",
+    "description":"Clothing is both functional and expressive, reflecting personal style and cultural influences. It serves as a form of self-expression, providing protection and communicating individuality through diverse fabrics, designs, and accessories",
+    "price":150
+  },
+  {
+    "id":4,
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "textColor": "food",
+    "bgColor": "food",
+    "bgImage":"./assets/images/Food.png",
+    "description":"Food is essential for nourishment, providing vital nutrients for the body's well-being. Beyond its biological function, it is a cultural and social experience, influencing traditions and personal preferences. A diverse and balanced diet supports overall health, and mindful food choices contribute to a gratifying culinary experience.",
+    "price":240
+  },
+  {
+    "id":5,
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "textColor": "food",
+    "bgColor": "food",
+    "bgImage":"./assets/images/Food.png",
+    "description":"Food is essential for nourishment, providing vital nutrients for the body's well-being. Beyond its biological function, it is a cultural and social experience, influencing traditions and personal preferences. A diverse and balanced diet supports overall health, and mindful food choices contribute to a gratifying culinary experience.",
+    "price":200
+  },
+  {
+    "id":6,
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "textColor": "clothing",
+    "bgColor": "clothing",
+    "bgImage":"./assets/images/Clothing.png",
+    "description":"Clothing is both functional and expressive, reflecting personal style and cultural influences. It serves as a form of self-expression, providing protection and communicating individuality through diverse fabrics, designs, and accessories",
+    "price":180
+  },
+  {
+    "id":7,
+    "title": "Good education",
+    "category": "Education",
+    "textColor": "education",
+    "bgColor": "education",
+    "bgImage":"./assets/images/Clothing.png",
+    "description":"Education is a transformative journey that empowers individuals with knowledge and skills, fostering personal growth and societal progress. It cultivates critical thinking, creativity, and a lifelong pursuit of knowledge, serving as a powerful tool for unlocking potential and promoting equality.",
+    "price":220
+  },
+  {
+    "id":8,
+    "title": "Clean water for children",
+    "category": "Health",
+    "textColor": "health",
+    "bgColor": "health",
+    "bgImage":"./assets/images/Health.png",
+    "description":"Health is a state of overall well-being, encompassing physical, mental, and social aspects. It involves a balanced lifestyle with good nutrition, regular exercise, and effective stress management. Mental and emotional well-being, along with positive social connections, are crucial. Optimal health requires proactive choices and ongoing self-care for a fulfilling life",
+    "price":260
+  },
+  {
+    "id":9,
+    "title": "Clean water for children",
+    "category": "Health",
+    "textColor": "health",
+    "bgColor": "health",
+    "bgImage":"./assets/images/Health.png",
+    "description":"Health is a state of overall well-being, encompassing physical, mental, and social aspects. It involves a balanced lifestyle with good nutrition, regular exercise, and effective stress management. Mental and emotional well-being, along with positive social connections, are crucial. Optimal health requires proactive choices and ongoing self-care for a fulfilling life",
+    "price":280
+  },
+  {
+    "id":10,
+    "title": "Good education",
+    "category": "Education",
+    "textColor": "education",
+    "bgColor": "education",
+    "bgImage":"./assets/images/Education.png",
+    "description":"Education is a transformative journey that empowers individuals with knowledge and skills, fostering personal growth and societal progress. It cultivates critical thinking, creativity, and a lifelong pursuit of knowledge, serving as a powerful tool for unlocking potential and promoting equality.",
+    "price":290
+  },
+  {
+    "id":11,
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "textColor": "clothing",
+    "bgColor": "clothing",
+    "bgImage":"./assets/images/Clothing.png",
+    "description":"Clothing is both functional and expressive, reflecting personal style and cultural influences. It serves as a form of self-expression, providing protection and communicating individuality through diverse fabrics, designs, and accessories",
+    "price":300
+  },
+  {
+    "id":12,
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "textColor": "food",
+    "bgColor": "food",
+    "bgImage":"./assets/images/Food.png",
+    "description":"Food is essential for nourishment, providing vital nutrients for the body's well-being. Beyond its biological function, it is a cultural and social experience, influencing traditions and personal preferences. A diverse and balanced diet supports overall health, and mindful food choices contribute to a gratifying culinary experience.",
+    "price":250
+  }
+]
