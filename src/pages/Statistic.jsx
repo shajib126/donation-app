@@ -5,12 +5,14 @@ import donatedata from '../data.json'
 //statistic page
 // const totalDonation = data.length
 const donated = JSON.parse(localStorage.getItem('donation'))
-const totalPrice = donatedata.reduce((acc,curr)=>{
-    return acc + curr.price
-},0)
-const totalDonated = donated.reduce((acc,curr)=>{
-    return acc + curr.price
-},0) 
+let totalPrice =0
+ donatedata.forEach((item)=>{
+  totalPrice += item.price
+})
+let totalDonated = 0 
+donated.reduce((item)=>{
+  totalDonated += item.price
+}) 
 const data = [
     ["Donation", "Donation Stats"],
     ["Total Donation", totalPrice],
