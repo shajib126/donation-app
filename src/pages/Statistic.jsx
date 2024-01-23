@@ -12,14 +12,12 @@ export const options = {
  
 const Statistic = () => {
   const donated = JSON.parse(localStorage.getItem('donation'))
-  let totalPrice =0
-   donatedata.forEach((item)=>{
-    totalPrice += item.price
-  })
-  let totalDonated = 0 
-  donated.forEach((item)=>{
-    totalDonated += item.price
-  }) 
+  let totalPrice =donatedata?.reduce((acc,curr)=>{
+    return acc + curr.price
+  },0)
+  let totalDonated = donated?.reduce((acc,curr)=>{
+    return acc + curr.price
+  },0) 
   const data = [
       ["Donation", "Donation Stats"],
       ["Total Donation", totalPrice],
