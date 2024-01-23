@@ -10,7 +10,7 @@ let totalPrice =0
   totalPrice += item.price
 })
 let totalDonated = 0 
-donated.reduce((item)=>{
+donated.forEach((item)=>{
   totalDonated += item.price
 }) 
 const data = [
